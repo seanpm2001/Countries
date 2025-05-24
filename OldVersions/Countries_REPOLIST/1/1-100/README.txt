@@ -2,24 +2,26 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Tuesday, April 29th
+//// As of 2025, Friday, May 23rd
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (19)
+//// Seanpm2001 Countries Project (21)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
 
 https://github.com/seanpm2001/Countries/
 
-//// Separate country repositories (sorted A-Z) (18)
+//// Separate country repositories (sorted A-Z) (20)
 
 https://github.com/seanpm2001/Belgium
 https://github.com/seanpm2001/Brazil
 https://github.com/seanpm2001/Canada
+https://github.com/seanpm2001/Estonia
 https://github.com/seanpm2001/European-Union
 https://github.com/seanpm2001/Finland
 https://github.com/seanpm2001/France
+https://github.com/seanpm2001/Georgia
 https://github.com/seanpm2001/Ireland
 https://github.com/seanpm2001/Israel
 https://github.com/seanpm2001/Japan
@@ -34,8 +36,8 @@ https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 19
-//// 1+18+19
+//// Repo count (Seanpm2001 Countries): 21
+//// 1+20+21
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -49,15 +51,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 20
-//// 19+1=20
+//// Total repo count: 23
+//// 21+1=23
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Tuesday, April 29th at 06:06 pm PST)
-//// Line count (including blank lines and compiler line): 64
+//// File version: 5 (2025, Friday, May 23rd at 05:58 pm PST)
+//// Line count (including blank lines and compiler line): 66
 //// ----------------------------------------------------- \\\\
 
 //// End of file
