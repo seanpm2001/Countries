@@ -2,17 +2,17 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Friday, May 23rd
+//// As of 2025, Monday, May 26th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (21)
+//// Seanpm2001 Countries Project (23)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
 
 https://github.com/seanpm2001/Countries/
 
-//// Separate country repositories (sorted A-Z) (20)
+//// Separate country repositories (sorted A-Z) (22)
 
 https://github.com/seanpm2001/Belgium
 https://github.com/seanpm2001/Brazil
@@ -25,7 +25,9 @@ https://github.com/seanpm2001/Georgia
 https://github.com/seanpm2001/Ireland
 https://github.com/seanpm2001/Israel
 https://github.com/seanpm2001/Japan
+https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Lithuania
+https://github.com/seanpm2001/Moldova
 https://github.com/seanpm2001/North-Korea
 https://github.com/seanpm2001/Norway
 https://github.com/seanpm2001/South-Korea
@@ -36,8 +38,8 @@ https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 21
-//// 1+20+21
+//// Repo count (Seanpm2001 Countries): 23
+//// 1+22+23
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -51,15 +53,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 23
-//// 21+1=23
+//// Total repo count: 24
+//// 23+1=24
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Friday, May 23rd at 05:58 pm PST)
-//// Line count (including blank lines and compiler line): 66
+//// File version: 6 (2025, Monday, May 26th at 05:59 pm PST)
+//// Line count (including blank lines and compiler line): 68
 //// ----------------------------------------------------- \\\\
 
 //// End of file
