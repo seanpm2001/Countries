@@ -2,10 +2,10 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Tuesday, May 27th
+//// As of 2025, Wednesday, May 28th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (25)
+//// Seanpm2001 Countries Project (27)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
@@ -32,6 +32,8 @@ https://github.com/seanpm2001/Moldova
 https://github.com/seanpm2001/North-Korea
 https://github.com/seanpm2001/Norway
 https://github.com/seanpm2001/South-Korea
+https://github.com/seanpm2001/South-Sudan
+https://github.com/seanpm2001/Sudan
 https://github.com/seanpm2001/Sweden
 https://github.com/seanpm2001/Turkey
 https://github.com/seanpm2001/Ukraine
@@ -40,8 +42,8 @@ https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 25
-//// 1+24+25
+//// Repo count (Seanpm2001 Countries): 27
+//// 1+26+27
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -55,15 +57,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 26
-//// 25+1=26
+//// Total repo count: 28
+//// 27+1=28
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Tuesday, May 27th at 06:19 pm PST)
-//// Line count (including blank lines and compiler line): 70
+//// File version: 8 (2025, Wednesday, May 28th at 06:51 pm PST)
+//// Line count (including blank lines and compiler line): 72
 //// ----------------------------------------------------- \\\\
 
 //// End of file
