@@ -2,10 +2,10 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Thursday, May 29th
+//// As of 2025, Friday, May 30th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (29)
+//// Seanpm2001 Countries Project (31)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
@@ -30,9 +30,11 @@ https://github.com/seanpm2001/Japan
 https://github.com/seanpm2001/Korea
 https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Lithuania
+https://github.com/seanpm2001/Malta
 https://github.com/seanpm2001/Moldova
 https://github.com/seanpm2001/North-Korea
 https://github.com/seanpm2001/Norway
+https://github.com/seanpm2001/Romania
 https://github.com/seanpm2001/South-Korea
 https://github.com/seanpm2001/South-Sudan
 https://github.com/seanpm2001/Sudan
@@ -44,8 +46,8 @@ https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 29
-//// 1+28+29
+//// Repo count (Seanpm2001 Countries): 31
+//// 1+30+31
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -59,15 +61,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 30
-//// 28+1=30
+//// Total repo count: 32
+//// 31+1=32
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 9 (2025, Thursday, May 29th at 07:06 pm PST)
-//// Line count (including blank lines and compiler line): 74
+//// File version: 10 (2025, Friday, May 30th at 06:05 pm PST)
+//// Line count (including blank lines and compiler line): 76
 //// ----------------------------------------------------- \\\\
 
 //// End of file
