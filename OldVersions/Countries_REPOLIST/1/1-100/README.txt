@@ -2,17 +2,17 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Saturday, May 31st
+//// As of 2025, Sunday, June 1st
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (33)
+//// Seanpm2001 Countries Project (36)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
 
 https://github.com/seanpm2001/Countries/
 
-//// Separate country repositories (sorted A-Z) (30)
+//// Separate country repositories (sorted A-Z) (35)
 
 https://github.com/seanpm2001/Afghanistan
 https://github.com/seanpm2001/Belgium
@@ -27,11 +27,13 @@ https://github.com/seanpm2001/Georgia
 https://github.com/seanpm2001/Ireland
 https://github.com/seanpm2001/Israel
 https://github.com/seanpm2001/Italy
+https://github.com/seanpm2001/Jamaica
 https://github.com/seanpm2001/Japan
 https://github.com/seanpm2001/Korea
 https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Lithuania
 https://github.com/seanpm2001/Malta
+https://github.com/seanpm2001/Mexico
 https://github.com/seanpm2001/Moldova
 https://github.com/seanpm2001/North-Korea
 https://github.com/seanpm2001/Norway
@@ -42,14 +44,15 @@ https://github.com/seanpm2001/South-Sudan
 https://github.com/seanpm2001/Sudan
 https://github.com/seanpm2001/Sweden
 https://github.com/seanpm2001/Turkey
+https://github.com/seanpm2001/Uganda
 https://github.com/seanpm2001/Ukraine
 https://github.com/seanpm2001/United-Kingdom
 https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 33
-//// 1+32+33
+//// Repo count (Seanpm2001 Countries): 36
+//// 1+35+36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -63,15 +66,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 34
-//// 33+1=34
+//// Total repo count: 37
+//// 36+1=37
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Saturday, May 31st at 06:59 pm PST)
-//// Line count (including blank lines and compiler line): 78
+//// File version: 12 (2025, Sunday, June 1st at 06:48 pm PST)
+//// Line count (including blank lines and compiler line): 81
 //// ----------------------------------------------------- \\\\
 
 //// End of file
