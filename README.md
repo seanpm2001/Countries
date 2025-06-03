@@ -11,7 +11,7 @@
 
 For an up to date listing, refer to this file: [`Countries_REPOLIST.urll`](/Countries_REPOLIST.urll)
 
-**As of 2025, June 1st:**
+**As of 2025, June 2nd:**
 
 > **Note:** _List is in A-Z order. Some entries are supercategories, which can comprise of multiple countries._
 
@@ -39,9 +39,11 @@ For an up to date listing, refer to this file: [`Countries_REPOLIST.urll`](/Coun
 - [:octocat: `🇰🇵️ North Korea`](https://github.com/seanpm2001/North-Korea/)
 - [:octocat: `🇳🇴️ Norway`](https://github.com/seanpm2001/Norway/)
 - [:octocat: `🇵🇱️ Poland`](https://github.com/seanpm2001/Poland/)
+- [:octocat: `🇵🇹️ Portugal`](https://github.com/seanpm2001/Portugal/)
 - [:octocat: `🇷🇴️ Romania`](https://github.com/seanpm2001/Romania/)
 - [:octocat: `🇰🇷️ South Korea`](https://github.com/seanpm2001/South-Korea/)
 - [:octocat: `🇸🇸️ South Sudan`](https://github.com/seanpm2001/South-Sudan/)
+- [:octocat: `🇪🇸️ Spain`](https://github.com/seanpm2001/Spain/)
 - [:octocat: `🇸🇩️ Sudan`](https://github.com/seanpm2001/Sudan/)
 - [:octocat: `🇸🇪️ Sweden`](https://github.com/seanpm2001/Sweden/)
 - [:octocat: `🇹🇷️ Turkey`](https://github.com/seanpm2001/Turkey/)
@@ -55,6 +57,6 @@ For an up to date listing, refer to this file: [`Countries_REPOLIST.urll`](/Coun
 
 # File info
 
-**File version:** `2 (2025, Sunday, June 1st at 06:49 pm PST)`
+**File version:** `3 (2025, Monday, June 2nd at 08:22 pm PST)`
 
 ***
