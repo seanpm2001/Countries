@@ -2,17 +2,17 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Wednesday, June 4th
+//// As of 2025, Thursday, June 5th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (42)
+//// Seanpm2001 Countries Project (44)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
 
 https://github.com/seanpm2001/Countries/
 
-//// Separate country repositories (sorted A-Z) (41)
+//// Separate country repositories (sorted A-Z) (43)
 
 https://github.com/seanpm2001/Afghanistan
 https://github.com/seanpm2001/Belgium
@@ -34,6 +34,7 @@ https://github.com/seanpm2001/Japan
 https://github.com/seanpm2001/Korea
 https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Lithuania
+https://github.com/seanpm2001/Luxembourg
 https://github.com/seanpm2001/Malta
 https://github.com/seanpm2001/Mexico
 https://github.com/seanpm2001/Moldova
@@ -54,11 +55,12 @@ https://github.com/seanpm2001/Uganda
 https://github.com/seanpm2001/Ukraine
 https://github.com/seanpm2001/United-Kingdom
 https://github.com/seanpm2001/United-States
+https://github.com/seanpm2001/Vietnam
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 42
-//// 1+41+42
+//// Repo count (Seanpm2001 Countries): 44
+//// 1+43+44
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -72,15 +74,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 43
-//// 42+1=43
+//// Total repo count: 45
+//// 44+1=45
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2025, Wednesday, June 4th at 07:14 pm PST)
-//// Line count (including blank lines and compiler line): 87
+//// File version: 16 (2025, Thursday, June 5th at 06:15 pm PST)
+//// Line count (including blank lines and compiler line): 89
 //// ----------------------------------------------------- \\\\
 
 //// End of file
