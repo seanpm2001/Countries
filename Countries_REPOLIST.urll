@@ -2,21 +2,22 @@
 //// Countries_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Country repositories by @seanpm2001
-//// As of 2025, Thursday, June 5th
+//// As of 2025, Monday, June 9th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Countries Project (44)
+//// Seanpm2001 Countries Project (46)
 //// ----------------------------------------------------- \\\\
 
 //// Countries Core (1)
 
 https://github.com/seanpm2001/Countries/
 
-//// Separate country repositories (sorted A-Z) (43)
+//// Separate country repositories (sorted A-Z) (45)
 
 https://github.com/seanpm2001/Afghanistan
 https://github.com/seanpm2001/Belgium
 https://github.com/seanpm2001/Brazil
+https://github.com/seanpm2001/Cambodia
 https://github.com/seanpm2001/Canada
 https://github.com/seanpm2001/Denmark
 https://github.com/seanpm2001/Egypt
@@ -32,6 +33,7 @@ https://github.com/seanpm2001/Italy
 https://github.com/seanpm2001/Jamaica
 https://github.com/seanpm2001/Japan
 https://github.com/seanpm2001/Korea
+https://github.com/seanpm2001/Laos
 https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Lithuania
 https://github.com/seanpm2001/Luxembourg
@@ -59,8 +61,8 @@ https://github.com/seanpm2001/Vietnam
 https://github.com/seanpm2001/Wales
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Countries): 44
-//// 1+43+44
+//// Repo count (Seanpm2001 Countries): 46
+//// 1+45+46
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -74,15 +76,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 45
-//// 44+1=45
+//// Total repo count: 47
+//// 46+1=47
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 16 (2025, Thursday, June 5th at 06:15 pm PST)
-//// Line count (including blank lines and compiler line): 89
+//// File version: 17 (2025, Monday, June 9th at 07:28 pm PST)
+//// Line count (including blank lines and compiler line): 91
 //// ----------------------------------------------------- \\\\
 
 //// End of file
